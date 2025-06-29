@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "kirby-cms-icons",
+  "name": "raycast-kirby-cms-icons",
   "title": "Kirby CMS icons",
   "description": "List and search the Kirby CMS icons",
   "icon": "extension-icon.png",
